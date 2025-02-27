@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 </a>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=appveyor" />
-    <img src="https://img.shields.io/badge/UI%2FUX-Designer-orange?style=for-the-badge&logo=adobe" />
+    <img src="https://img.shields.io/badge/WordPress-Developer-blue?style=for-the-badge&logo=appveyor" />
+    <img src="https://img.shields.io/badge/Javascript-Developer-yellow?style=for-the-badge&logo=appveyor" />
+    <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=for-the-badge&logo=appveyor" />
+    <img src="https://img.shields.io/badge/DevOps-orange?style=for-the-badge&logo=adobe" />
 </div>
 
 ---

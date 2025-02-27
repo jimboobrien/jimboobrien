@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-I'm a **software engineer** specializing in **full-stack development** with a focus on **dev-ops**, **back-end**, and **front-end**. I'm proficient in **JavaScript**, **CSS3**, and a variety of modern web technologies. When I’m not coding, I enjoy hiking 🥾, gaming 🎮, and hitting the open road 🚗.
+I'm a **software engineer** specializing in **full-stack development** with a focus on **dev-ops**, **back-end**, and **front-end**. I'm proficient in **WordPress**, **JavaScript**, **CSS3**, and a variety of modern web technologies all relating to web development and E-Commerce. >!--When I’m not coding, I enjoy hiking 🥾, gaming 🎮, and hitting the open road 🚗.-->
 
 ## 🔒 Private Contributions
 

@@ -201,8 +201,14 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 ## 🚀 Featured Projects
 
 ### Professional
-
-<table> <tr> <td align="center"> <a href="https://github.com/cdcent/TemplatePackage"> <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov Templates&color=blue&style=for-the-badge&logo=github"> </a> </td> <td align="center"> <a href="https://github.com/cdcent/WCMS"> <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov CMS&color=red&style=for-the-badge&logo=github"> </a> </td> </tr> </table>
+<div align="center">
+    <a href="https://github.com/cdcent/TemplatePackage">
+        <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov Templates&color=blue&style=for-the-badge&logo=github">
+    </a>
+    <a href="https://github.com/cdcent/WCMS">
+        <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov CMS&color=red&style=for-the-badge&logo=github">
+    </a>
+</div>
 
 
 ### Personal

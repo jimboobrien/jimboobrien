@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 # Welcome to jimboobrien's GitHub profile! 👋
 
-<a href="https://jimboobrien.github.io">
+<a target="_blank" href="https://jimboobrien.github.io">
     GitHub portfolio - jimboobrien.github.io
 </a>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-**WordPress** aficionado, **software engineer** specializing in **full-stack development**, with a focus on **dev-ops**, **back-end**, and **front-end**. I'm proficient in **PHP**, **JavaScript**, **CSS3**, and a variety of modern web technologies all relating to Web Development and E-Commerce. <!--When I’m not coding, I enjoy hiking 🥾, gaming 🎮, and hitting the open road 🚗.-->
+**software engineer** specializing in **full-stack development**, with a focus on **dev-ops**, **back-end**, and **front-end**. I'm a **WordPress** aficionado and also proficient with **PHP**, **JavaScript**, **CSS3**, and a variety of modern web technologies all relating to Web Development and E-Commerce. <!--When I’m not coding, I enjoy hiking 🥾, gaming 🎮, and hitting the open road 🚗.-->
 
 ## 🔒 Private Contributions
 

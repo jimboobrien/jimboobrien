@@ -172,11 +172,12 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
   <tr>
     <td><strong>Utilities</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Grunt-FAA918?logo=grunt&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white&style=flat-square">
-      <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat-square">
     </td>
   </tr>
    <tr>
@@ -189,8 +190,6 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
    <tr>
     <td><strong>Other Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/-Stylelint-263238?logo=stylelint&logoColor=white&style=flat-square">
-      <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Twilio-F22F46?logo=twilio&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Toptal-3863A0?logo=toptal&logoColor=white&style=flat-square">
     </td>

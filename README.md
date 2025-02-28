@@ -196,7 +196,11 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
   </tr>
 </table>
 
+
+
 ## 🚀 Featured Projects
+
+### Professional
 
 <div align="center">
     <a href="https://github.com/cdcent/TemplatePackage">
@@ -206,6 +210,36 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
         <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov CMS&color=red&style=for-the-badge&logo=github">
     </a>
 </div>
+
+
+### Personal
+<div align="center">
+    <a href="https://github.com/Visionquest-Development/pegasus">
+        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Theme&color=blue&style=for-the-badge&logo=github">
+    </a>
+    <a href="https://github.com/Visionquest-Development/pegasus-child">
+        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Child Theme&color=red&style=for-the-badge&logo=github">
+    </a>
+</div>
+
+
+#### WordPress Plugin Development
+<div align="center">
+    <a href="https://github.com/Visionquest-Development/pegasus-carousel">
+        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Carousel&color=blue&style=for-the-badge&logo=github">
+    </a>
+    <a href="https://github.com/Visionquest-Development/pegasus-slider">
+        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Slider&color=red&style=for-the-badge&logo=github">
+    </a>
+    <a href="https://github.com/Visionquest-Development/pegasus-onepage">
+        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus OnePage&color=red&style=for-the-badge&logo=github">
+    </a>
+    <a href="https://github.com/Visionquest-Development/pegasus-tabs">
+        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Tabs&color=red&style=for-the-badge&logo=github">
+    </a>
+</div>
+
+
 
 ## 📫 Let's Connect!
 
@@ -219,7 +253,15 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
   <a href="https://codepen.io/jimboobrien">
     <img src="https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white&style=for-the-badge">
   </a>
-  <a target="_blank" href="https://visionquestdevelopment.com/">
-    <img src="https://img.shields.io/badge/-VQDEV-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+  <a href="https://visionquestdevelopment.com/">
+    <img src="https://img.shields.io/badge/-VQDEV-231e61?logo=veed&logoColor=white&style=for-the-badge">
+  </a>
+</p>
+
+
+## Other links
+<p align="center">
+  <a href="https://visionquestdevelopment.com/javascript-libraries/">
+    <img src="https://img.shields.io/badge/-Javascript Libraries-0A66C2?logo=javascript&logoColor=white&style=for-the-badge">
   </a>
 </p>

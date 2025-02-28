@@ -219,7 +219,7 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
   <a href="https://codepen.io/jimboobrien">
     <img src="https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://visionquestdevelopment.com/">
+  <a target="_blank" href="https://visionquestdevelopment.com/">
     <img src="https://img.shields.io/badge/-VQDEV-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
 </p>

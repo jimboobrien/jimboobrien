@@ -146,7 +146,6 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
       <img src="https://img.shields.io/badge/-Node.js-5FA04E?logo=nodedotjs&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square">
-      <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=flat-square">
     </td>
   </tr>
@@ -167,6 +166,7 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
       <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Vagrant-1868F2?logo=vagrant&logoColor=white&style=flat-square">
     </td>
   </tr>
   <tr>

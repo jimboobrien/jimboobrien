@@ -41,7 +41,6 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 
 ### Languages & Frameworks
 
-### Languages & Frameworks
 
 #### HTML
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
@@ -100,10 +99,10 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 
 #### WORDPRESS
 ![WordPress](https://img.shields.io/badge/-wordpress-21759B?logo=wordpress&logoColor=white&style=flat-square)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat-square)
 
 #### ECOMMERCE
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white&style=flat-square)
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat-square)
 
 #### NODEJS
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat-square)
@@ -117,9 +116,7 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square)
 
-
 #### RANDOM
-
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=flat-square)

@@ -124,10 +124,76 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
       <img src="https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat-square">
     </td>
   </tr>
+  
   <tr>
+    <td><strong>E-commerce</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+   <tr>
     <td><strong>Cloud</strong></td>
     <td>
       <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Node.js</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-5FA04E?logo=nodedotjs&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+   <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+   <tr>
+    <td><strong>CI/CD & DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Travis%20CI-3EAAAF?logo=travisci&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Utilities</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Grunt-FAA918?logo=grunt&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+   <tr>
+    <td><strong>Community</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+   <tr>
+    <td><strong>Other Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Stylelint-263238?logo=stylelint&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Twilio-F22F46?logo=twilio&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Toptal-3863A0?logo=toptal&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Toyota-EB0A1E?logo=toyota&logoColor=white&style=flat-square">
     </td>
   </tr>
 </table>

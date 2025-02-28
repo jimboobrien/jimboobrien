@@ -17,11 +17,15 @@ Here are some ideas to get you started:
     GitHub portfolio - jimboobrien.github.io
 </a>
 
+
+
+
+
 <div align="center">
     <img src="https://img.shields.io/badge/WordPress-Developer-blue?style=for-the-badge&logo=appveyor" />
     <img src="https://img.shields.io/badge/Javascript-Developer-yellow?style=for-the-badge&logo=appveyor" />
     <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=for-the-badge&logo=appveyor" />
-    <img src="https://img.shields.io/badge/DevOps-orange?style=for-the-badge&logo=adobe" />
+    <img src="https://img.shields.io/badge/DevOps-orange?style=for-the-badge&logo=appveyor" />
 </div>
 
 ---

@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <img src="https://img.shields.io/badge/WordPress-Developer-blue?style=for-the-badge&logo=appveyor" />
-    <img src="https://img.shields.io/badge/Javascript-Developer-yellow?style=for-the-badge&logo=appveyor" />
+    <img src="https://img.shields.io/badge/WordPress-Developer-blue?style=for-the-badge&logo=wordpress" />
+    <img src="https://img.shields.io/badge/Javascript-Developer-F7DF1E?style=for-the-badge&logo=javascript" />
     <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=for-the-badge&logo=appveyor" />
     <img src="https://img.shields.io/badge/DevOps-Developer-orange?style=for-the-badge&logo=appveyor" />
 </div>

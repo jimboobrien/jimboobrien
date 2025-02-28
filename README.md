@@ -41,15 +41,22 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 ### Languages & Frameworks
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
-![PHP](https://img.shields.io/badge/-PHP%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=tailwind-css&logoColor=white&style=flat-square)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+
+![WordPress](https://img.shields.io/badge/-wordpress-21759B?logo=wordpress&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
 
 ### Tools & Platforms
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)

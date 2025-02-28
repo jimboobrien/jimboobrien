@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-**software engineer** specializing in **full-stack development**, with a focus on **dev-ops**, **back-end**, and **front-end**. I'm a **WordPress** aficionado and also proficient with **PHP**, **JavaScript**, **CSS3**, and a variety of modern web technologies all relating to Web Development and E-Commerce. <!--When I’m not coding, I enjoy hiking 🥾, gaming 🎮, and hitting the open road 🚗.-->
+**Software engineer** specializing in **full-stack development**, with a focus on **dev-ops**, **back-end** (75%), and **front-end** (25%). I'm a **WordPress** aficionado and proficient with **PHP**, **JavaScript**, **CSS3**, and a variety of modern web technologies all relating to Web Development and E-Commerce. In my spare time I like to work on my <img src="https://img.shields.io/badge/-Toyota-EB0A1E?logo=toyota&logoColor=white&style=flat-square">.<!--When I’m not coding, I enjoy hiking 🥾, gaming 🎮, and hitting the open road 🚗.-->
 
 ## 🔒 Private Contributions
 
@@ -193,7 +193,6 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
       <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Twilio-F22F46?logo=twilio&logoColor=white&style=flat-square">
       <img src="https://img.shields.io/badge/-Toptal-3863A0?logo=toptal&logoColor=white&style=flat-square">
-      <img src="https://img.shields.io/badge/-Toyota-EB0A1E?logo=toyota&logoColor=white&style=flat-square">
     </td>
   </tr>
 </table>

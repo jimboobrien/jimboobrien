@@ -38,103 +38,99 @@ Here are some ideas to get you started:
 Most of my contributions, including commits, pull requests, and code reviews, are made in private repositories for the Centers for Disease Control and Prevention (CDC). These contributions involve collaborating with various teams to develop and maintain critical software solutions that support public health initiatives, but they are not reflected in my public GitHub profile and/or commit history.
 
 ## 🌟 Tech Stack
-
 ### Languages & Frameworks
 
-
-#### HTML
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-
-#### CSS
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
-![Stylelint](https://img.shields.io/badge/-Stylelint-263238?logo=stylelint&logoColor=white&style=flat-square)
-
-#### PHP
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=tailwind-css&logoColor=white&style=flat-square)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white&style=flat-square)
-
-#### JAVASCRIPT
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-
-
-
+<table>
+  <tr>
+    <td><strong>HTML</strong></td>
+    <td><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"></td>
+  </tr>
+  <tr>
+    <td><strong>CSS</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Stylelint-263238?logo=stylelint&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>PHP</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-PHP-777BB4?logo=tailwind-css&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+</table>
 
 ### Tools & Platforms
 
-#### ARTIFICAL INTELLIGENCE
-![Anthropic](https://img.shields.io/badge/-Anthropic-191919?logo=anthropic&logoColor=white&style=flat-square)
-![Claude](https://img.shields.io/badge/-Claude-D97757?logo=claude&logoColor=white&style=flat-square)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=flat-square)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white&style=flat-square)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=flat-square)
-
-#### LINUX
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
-![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?logo=redhat&logoColor=white&style=flat-square)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
-![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=flat-square)
-
-#### IDE
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white&style=flat-square)
-![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?logo=notepadplusplus&logoColor=white&style=flat-square)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white&style=flat-square)
-![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=flat-square)
-
-#### GIT
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
-
-
-#### WORDPRESS
-![WordPress](https://img.shields.io/badge/-wordpress-21759B?logo=wordpress&logoColor=white&style=flat-square)
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat-square)
-
-#### ECOMMERCE
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white&style=flat-square)
-
-#### NODEJS
-![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?logo=nodedotjs&logoColor=white&style=flat-square)
-
-#### CLOUD
-![Amazon Web Services](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat-square)
-
-#### DATABASE
-![MySQL](https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square)
-
-#### RANDOM
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
-![Grunt](https://img.shields.io/badge/-Grunt-FAA918?logo=grunt&logoColor=white&style=flat-square)
-![Gulp](https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white&style=flat-square)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
-![Palantir](https://img.shields.io/badge/-Palantir-101113?logo=palantir&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=flat-square)
-![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=flat-square)
-![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?logo=travisci&logoColor=white&style=flat-square)
-![Trivy](https://img.shields.io/badge/-Trivy-1904DA?logo=trivy&logoColor=white&style=flat-square)
-![Toptal](https://img.shields.io/badge/-Toptal-3863A0?logo=toptal&logoColor=white&style=flat-square)
-![Toyota](https://img.shields.io/badge/-Toyota-EB0A1E?logo=toyota&logoColor=white&style=flat-square)
-![Twilio](https://img.shields.io/badge/-Twilio-F22F46?logo=twilio&logoColor=white&style=flat-square)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat-square)
+<table>
+  <tr>
+    <td><strong>AI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Anthropic-191919?logo=anthropic&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Claude-D97757?logo=claude&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Linux</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Red%20Hat-EE0000?logo=redhat&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>IDE</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-Notepad++-90E59A?logo=notepadplusplus&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Git</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>WordPress</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-wordpress-21759B?logo=wordpress&logoColor=white&style=flat-square">
+      <img src="https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat-square">
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 

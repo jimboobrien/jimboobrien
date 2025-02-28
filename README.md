@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Jim! 👋
+# Welcome to jimboobrien's GitHub profile! 👋
 
 <a href="https://jimboobrien.github.io">
-    jimboobrien.github.io
+    GitHub portfolio - jimboobrien.github.io
 </a>
 
 <div align="center">
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-I'm a **software engineer** specializing in **full-stack development** with a focus on **dev-ops**, **back-end**, and **front-end**. I'm proficient in **WordPress**, **JavaScript**, **CSS3**, and a variety of modern web technologies all relating to web development and E-Commerce. <!--When I’m not coding, I enjoy hiking 🥾, gaming 🎮, and hitting the open road 🚗.-->
+**WordPress** aficionado, **software engineer** specializing in **full-stack development**, with a focus on **dev-ops**, **back-end**, and **front-end**. I'm proficient in **PHP**, **JavaScript**, **CSS3**, and a variety of modern web technologies all relating to Web Development and E-Commerce. <!--When I’m not coding, I enjoy hiking 🥾, gaming 🎮, and hitting the open road 🚗.-->
 
 ## 🔒 Private Contributions
 
@@ -70,10 +70,13 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
   <a href="https://www.linkedin.com/in/jimboobrien">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
+  <a href="https://jimboobrien.github.io">
+    <img src="https://img.shields.io/badge/-Portfolio-1DA1F2?logo=webpack&logoColor=white&style=for-the-badge">
+  </a>
   <a href="https://codepen.io/jimboobrien">
     <img src="https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://jimboobrien.github.io">
-    <img src="https://img.shields.io/badge/-Portfolio-1DA1F2?logo=webpack&logoColor=white&style=for-the-badge">
+  <a href="https://visionquestdevelopment.com/">
+    <img src="https://img.shields.io/badge/-VQDEV-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
 </p>

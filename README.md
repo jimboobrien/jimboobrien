@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://img.shields.io/badge/WordPress-Developer-21759B?style=for-the-badge&logo=wordpress" />
     <img src="https://img.shields.io/badge/Javascript-Developer-F7DF1E?style=for-the-badge&logo=javascript" />
+</div>
+<div align="center">
     <img src="https://img.shields.io/badge/Fullstack-Developer-0854C1?style=for-the-badge&logo=onlyoffice" />
     <img src="https://img.shields.io/badge/DevOps-Developer-orange?style=for-the-badge&logo=substack" />
 </div>

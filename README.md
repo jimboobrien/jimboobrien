@@ -202,7 +202,7 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 
 ### Professional
 
-<div align="center">
+<div align="">
     <a href="https://github.com/cdcent/TemplatePackage">
         <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov Templates&color=blue&style=for-the-badge&logo=github">
     </a>
@@ -213,7 +213,7 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 
 
 ### Personal
-<div align="center">
+<div align="">
     <a href="https://github.com/Visionquest-Development/pegasus">
         <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Theme&color=blue&style=for-the-badge&logo=github">
     </a>
@@ -224,13 +224,15 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 
 
 #### WordPress Plugin Development
-<div align="center">
+<div align="">
     <a href="https://github.com/Visionquest-Development/pegasus-carousel">
         <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Carousel&color=blue&style=for-the-badge&logo=github">
     </a>
     <a href="https://github.com/Visionquest-Development/pegasus-slider">
         <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Slider&color=red&style=for-the-badge&logo=github">
     </a>
+</div>
+<div align="">
     <a href="https://github.com/Visionquest-Development/pegasus-onepage">
         <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus OnePage&color=red&style=for-the-badge&logo=github">
     </a>

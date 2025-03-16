@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Software engineer** specializing in **full-stack development**, with a focus on **dev-ops**, **back-end** (75%), and **front-end** (25%). I'm a **AI** evangelist, **WordPress** aficionado, **Javascript** Ninja, **dotfile** junky, **yaml** master, **markdown** expert, **documentation** extraordinaire. Proficient with **HTML**, **PHP**, **Vanilla JavaScript** (React, Typescript, ES6), **NODEJS**, **CSS3**, and a variety of modern web technologies all relating to Web Development and E-Commerce. In my spare time I like to work on my <img src="https://img.shields.io/badge/-Toyota-EB0A1E?logo=toyota&logoColor=white&style=flat-square"> 4Runner 🚗.<!--When I’m not coding, I enjoy hiking 🥾, gaming 🎮, and hitting the open road 🚗.-->
+**Software engineer** specializing in **full-stack development**, with a focus on **dev-ops**, **back-end** (75%), and **front-end** (25%). I'm a **AI** evangelist, **WordPress** aficionado, **Javascript** Ninja, **dotfile** junky, **yaml** master, **markdown** expert, **documentation** extraordinaire. Proficient with **HTML**, **PHP**, **Vanilla JavaScript** (React, Typescript, ES6), **NODEJS**, **CSS3**, and a variety of modern web technologies all relating to Software Engineering, Web Development, and E-Commerce. In my spare time I like to work on my <img src="https://img.shields.io/badge/-Toyota-EB0A1E?logo=toyota&logoColor=white&style=flat-square"> 4Runner 🚗.<!--When I’m not coding, I enjoy hiking 🥾, gaming 🎮, and hitting the open road 🚗.-->
 
 ## 🔒 Private Contributions
 

@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 🔒 Private Contributions
 
-Most of my contributions, including commits, pull requests, and code reviews, are made in private repositories for the Centers for Disease Control and Prevention (CDC). These contributions involve collaborating with various teams to develop and maintain critical software solutions that support public health initiatives, but they are not reflected in my public GitHub profile and/or commit history.
+Most of my contributions, including commits, pull requests, and code reviews, are made in private repositories for the Centers for Disease Control and Prevention (CDC). These contributions involve collaborating with various teams to develop and maintain critical software solutions that support public health initiatives, but they are not reflected in my public GitHub profile and/or commit history. **TLDR** - My GitHub contribution map is fuller than you think! (private repos)
 
 ## 🌟 Tech Stack
 ### Languages & Frameworks

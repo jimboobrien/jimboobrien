@@ -203,10 +203,10 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 ### Professional
 <div align="center">
     <a href="https://github.com/cdcent/TemplatePackage">
-       <img src="https://img.shields.io/badge/CDC.gov%20Templates-blue?style=flat-square" alt="CDC.gov Templates">
+       <img src="https://img.shields.io/badge/CDC.gov%20Templates-blue?style=for-the-badge" alt="CDC.gov Templates">
     </a>
     <a href="https://github.com/cdcent/WCMS">
-       <img src="https://img.shields.io/badge/CDC.gov%20CMS-red?style=flat-square" alt="CDC.gov CMS">
+       <img src="https://img.shields.io/badge/CDC.gov%20CMS-red?style=for-the-badge" alt="CDC.gov CMS">
     </a>
 </div>
 
@@ -214,10 +214,10 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 ### Personal
 <div align="center">
     <a href="https://github.com/Visionquest-Development/pegasus">
-         <img src="https://img.shields.io/badge/Pegasus%20Theme-blue?style=flat-square" alt="Pegasus Theme">
+         <img src="https://img.shields.io/badge/Pegasus%20Theme-blue?style=for-the-badge" alt="Pegasus Theme">
     </a>
     <a href="https://github.com/Visionquest-Development/pegasus-child">
-        <img src="https://img.shields.io/badge/Pegasus%20Child%20Theme-red?style=flat-square" alt="Pegasus Child Theme">
+        <img src="https://img.shields.io/badge/Pegasus%20Child%20Theme-red?style=for-the-badge" alt="Pegasus Child Theme">
     </a>
 </div>
 
@@ -225,18 +225,18 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 #### WordPress Plugin Development
 <div align="center">
     <a href="https://github.com/Visionquest-Development/pegasus-carousel">
-         <img src="https://img.shields.io/badge/Pegasus%20Carousel-blue?style=flat-square" alt="Pegasus Carousel">
+         <img src="https://img.shields.io/badge/Pegasus%20Carousel-blue?style=for-the-badge" alt="Pegasus Carousel">
     </a>
     <a href="https://github.com/Visionquest-Development/pegasus-slider">
-        <img src="https://img.shields.io/badge/Pegasus%20Slider-red?style=flat-square" alt="Pegasus Slider">
+        <img src="https://img.shields.io/badge/Pegasus%20Slider-red?style=for-the-badge" alt="Pegasus Slider">
     </a>
 </div>
 <div align="center">
     <a href="https://github.com/Visionquest-Development/pegasus-onepage">
-        <img src="https://img.shields.io/badge/Pegasus%20OnePage-blue?style=flat-square" alt="Pegasus OnePage">
+        <img src="https://img.shields.io/badge/Pegasus%20OnePage-blue?style=for-the-badge" alt="Pegasus OnePage">
     </a>
     <a href="https://github.com/Visionquest-Development/pegasus-tabs">
-        <img src="https://img.shields.io/badge/Pegasus%20Tabs-red?style=flat-square" alt="Pegasus Tabs">
+        <img src="https://img.shields.io/badge/Pegasus%20Tabs-red?style=for-the-badge" alt="Pegasus Tabs">
     </a>
 </div>
 

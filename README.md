@@ -203,7 +203,9 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 ### Professional
 <div align="center">
     <a href="https://github.com/cdcent/TemplatePackage">
-        <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov Templates&color=blue&style=for-the-badge&logo=github">
+       <span style="display:inline-block;background-color:blue;color:white;padding:6px 12px;border-radius:4px;margin:4px;">
+          CDC.gov Templates
+        </span>
     </a>
     <a href="https://github.com/cdcent/WCMS">
         <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov CMS&color=red&style=for-the-badge&logo=github">

@@ -214,10 +214,10 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 ### Personal
 <div align="center">
     <a href="https://github.com/Visionquest-Development/pegasus">
-        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Theme&color=blue&style=for-the-badge&logo=github">
+         <img src="https://img.shields.io/badge/Pegasus%20Theme-blue?style=flat-square" alt="Pegasus Theme">
     </a>
     <a href="https://github.com/Visionquest-Development/pegasus-child">
-        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Child Theme&color=red&style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/Pegasus%20Child%20Theme-red?style=flat-square" alt="Pegasus Child Theme">
     </a>
 </div>
 
@@ -225,18 +225,18 @@ Most of my contributions, including commits, pull requests, and code reviews, ar
 #### WordPress Plugin Development
 <div align="center">
     <a href="https://github.com/Visionquest-Development/pegasus-carousel">
-        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Carousel&color=blue&style=for-the-badge&logo=github">
+         <img src="https://img.shields.io/badge/Pegasus%20Carousel-blue?style=flat-square" alt="Pegasus Carousel">
     </a>
     <a href="https://github.com/Visionquest-Development/pegasus-slider">
-        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Slider&color=red&style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/Pegasus%20Slider-red?style=flat-square" alt="Pegasus Slider">
     </a>
 </div>
 <div align="center">
     <a href="https://github.com/Visionquest-Development/pegasus-onepage">
-        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus OnePage&color=blue&style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/Pegasus%20OnePage-blue?style=flat-square" alt="Pegasus OnePage">
     </a>
     <a href="https://github.com/Visionquest-Development/pegasus-tabs">
-        <img src="https://img.shields.io/static/v1?label=Project&message=Pegasus Tabs&color=red&style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/Pegasus%20Tabs-red?style=flat-square" alt="Pegasus Tabs">
     </a>
 </div>
 
